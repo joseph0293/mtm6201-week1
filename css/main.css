@@ -1,0 +1,49 @@
+.container {
+    font-family: "Montserrat";
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 700;
+    padding: 0.5em;
+    background-color: #0031f3;
+    color: white;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.bio p {
+    line-height: normal;
+    font-size: 1.1em;
+
+}
+img {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    margin-right: 20px;
+    margin-bottom: 1em;
+    float: left;
+}
+
+.descriptions {
+    background-color: #0031f3;
+    padding: 1.2em;
+    color: white;
+    clear: left;
+    margin-top: 2em;
+}
+
+dt {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+dd {
+    margin-bottom: 20px;
+    font-size: 1rem;
+}
